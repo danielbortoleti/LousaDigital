@@ -9,4 +9,4 @@
 <p align="center">Digital blueboard</br> Made in HTML and JavaScript with the help of the Canvas API that provides ways to draw JavaScript graphics and HTML Canvas element..</p><br/>
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/570917609)
+
