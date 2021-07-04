@@ -8,5 +8,5 @@
 <h2 align="center"><strong>🇺🇸</strong></h2>
 <p align="center">Digital blueboard</br> Made in HTML and JavaScript with the help of the Canvas API that provides ways to draw JavaScript graphics and HTML Canvas element..</p><br/>
 
-
+<img align="center" src="lousa.gif">
 
