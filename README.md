@@ -9,4 +9,4 @@
 <p align="center">Digital blueboard</br> Made in HTML and JavaScript with the help of the Canvas API that provides ways to draw JavaScript graphics and HTML Canvas element..</p><br/>
 
 
-<iframe src="https://player.vimeo.com/video/570917609?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2021-07-04 11-39-01.mp4"></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/570917609)
